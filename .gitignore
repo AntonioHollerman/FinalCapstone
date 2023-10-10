@@ -2,11 +2,13 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+math_stuff.py
 identifier.sqlite
 # C extensions
 *.so
 .idea
+spacex_launch_dash.csv
+testing.ipynb
 # Distribution / packaging
 .Python
 build/
